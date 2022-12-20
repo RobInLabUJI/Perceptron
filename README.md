@@ -13,6 +13,6 @@ You should run first the example of the AND function, then complete with a simil
 
 * [Example: the AND function](AND.ipynb)
 * [Exercise: the OR function](OR.ipynb)
-* [Exercise: linearly separable classes](Classes_Exercise.ipynb)
+* [Exercise: linearly separable classes](Classes.ipynb)
 
 For the submission of this task, please follow the instructions of the corresponding workshop in Aula Virtual.
